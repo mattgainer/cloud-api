@@ -1,0 +1,1 @@
+json.array! @clouds, partial: 'cloud', as: :cloud
